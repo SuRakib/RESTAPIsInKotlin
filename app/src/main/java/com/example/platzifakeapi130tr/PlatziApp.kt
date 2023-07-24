@@ -5,4 +5,4 @@ import dagger.hilt.android.HiltAndroidApp
 
 //s6=dependicies
 @HiltAndroidApp
-class PlatziApp : Application()
+class PlatziApp : Application()   //Container

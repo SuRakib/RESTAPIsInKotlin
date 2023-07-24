@@ -26,7 +26,7 @@ class LoginFragment : Fragment() {
     lateinit var binding: FragmentLoginBinding
 
     //s10
-    private val viewModel: LoginViewModel by viewModels()
+    private val viewModel: LoginViewModel by viewModels()  //insist of view model provider+1 line and this is providing object
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,

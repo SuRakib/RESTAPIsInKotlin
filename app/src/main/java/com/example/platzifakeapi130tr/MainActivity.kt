@@ -1,8 +1,7 @@
-package com.example.platzifakeapi130tr.views
+package com.example.platzifakeapi130tr
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.platzifakeapi130tr.R
 import dagger.hilt.android.AndroidEntryPoint
 
 //ss14
