@@ -70,7 +70,8 @@ class RegisterFragment : Fragment() {
 
         //call view model
 
-        val request= RequestRegister(name=name,
+        val request= RequestRegister(
+            name=name,
             email = email,
             password = password,
             avatar = "https://img.freepik.com/free-vector/cute-cool-baby-holding-teddy-bear-doll-cartoon-vector-icon-illustration-people-holiday-isolated_138676-5356.jpg?w=2000")
